@@ -1,0 +1,73 @@
+html { 
+ background: url(../images/pattern.jpg) repeat center center fixed !important; 
+ -webkit-background-size: cover !important;
+ -moz-background-size: cover !important;
+ -o-background-size: cover !important;
+ background-size: cover !important;
+}
+
+body {
+	background-color: transparent;
+}
+
+.container {
+	height: 1800px;
+	width: 900px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.jumbotron {
+	background: white;
+	border: 3px solid white;
+	text-align: center;
+	color: black;
+   	margin: 100px 40px 0 40px;
+
+}
+
+h1 {
+	font-family: 'helvetica neue';
+	
+	
+}
+
+.choiceList {
+	text-align: center;
+	color: white;
+
+	
+}
+
+#showResults {
+	text-align: center;
+	font-size: 40px;
+	padding: 25px;
+	margin: 25px;
+	font-family: 'helvetica neue';
+	color: black;
+   	
+}
+
+.gameStart {
+	margin-top: 60px;
+}
+
+.submitAnswer {
+	margin-top: 20px;
+}
+
+
+#showQuestions {
+	word-spacing: 1px;
+	padding-left: 2px;
+}
+
+.radioButton {
+	margin-left: 5px ;
+	
+}
+
+
+
+
